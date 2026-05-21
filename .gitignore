@@ -1,0 +1,14 @@
+# Large raw footage (exceeds GitHub's 100 MB limit)
+PXL_*.mp4
+
+# Arduino build artifacts
+build/
+*.bin
+*.elf
+*.hex
+*.map
+
+# Arduino IDE / OS junk
+.DS_Store
+Thumbs.db
+*.swp
