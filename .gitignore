@@ -1,4 +1,4 @@
-# Large raw footage (exceeds GitHub's 100 MB limit)
+# Raw 4K footage (exceeds GitHub's 100 MB limit — use balanceDemo.mp4 instead)
 PXL_*.mp4
 
 # Arduino build artifacts

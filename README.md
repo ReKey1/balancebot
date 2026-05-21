@@ -2,7 +2,7 @@
 
 An Arduino-based two-wheeled self-balancing robot. Uses an MPU6050 IMU fused through a Kalman filter and a PID controller to maintain upright balance, with Bluetooth remote control.
 
-https://github.com/user-attachments/assets/PXL_20250311_045549919.mp4
+https://github.com/user-attachments/assets/balanceDemo.mp4
 
 ---
 
