@@ -105,6 +105,13 @@ Install via the Arduino Library Manager:
 
 ---
 
+## CAD
+
+`balancingRobot.f3z` — Fusion 360 archive of the robot chassis. Open in Fusion 360 via **File → Open → Open from my computer**.
+
+---
+
 ## Media
 
-`balanceMARK0.mp4` — early demo of the robot balancing.
+`balanceDemo.mp4` — demo of the robot balancing.  
+`balanceMARK0.mp4` — early prototype demo.
